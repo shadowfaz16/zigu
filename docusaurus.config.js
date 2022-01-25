@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'Zigu Mx',
   tagline: 'Documentación para desarrolladores',
-  url: 'peaceful-ptolemy-fb6b5b.netlify.app',
+  url: 'https://peaceful-ptolemy-fb6b5b.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
