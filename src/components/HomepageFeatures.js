@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         Contamos con las tarifas más bajas del mercado para que maximices tus ventas.
-        ¡Garantizado! <a href="docs/Integración con Plataformas/woocommerce">Descarga nuestro plugin</a> y revisa nuestra documentación.
+        ¡Garantizado! <a href="docs/Integración-con-Plataformas/woocommerce">Descarga nuestro plugin</a> y revisa nuestra documentación.
       </>
     ),
   },
