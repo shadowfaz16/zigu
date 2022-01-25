@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Vista General
 
-Let's discover **Docusaurus in less than 5 minutes**.
-
 ## Audiencia
 
 Este documento está dirigido al personal técnico de la organización. En este documento se da por hecho que el lector tiene conocimiento de lenguajes de programación, hardware y los requerimientos de software especificados en el documento.
